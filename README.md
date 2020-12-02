@@ -8,3 +8,7 @@ Completed Nov 24th.
 The file Tasks.py should be downloaded, then the script can be run
 from the terminal using
 python -c 'import Tasks; print(Tasks.sqrt2())
+
+
+Task 2: Verifying the chi-squared value and calculating the p-value.
+Completed Dec 2nd
