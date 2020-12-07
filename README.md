@@ -12,3 +12,6 @@ python -c 'import Tasks; print(Tasks.sqrt2())
 
 Task 2: Verifying the chi-squared value and calculating the p-value.
 Completed Dec 2nd
+
+Task 3: Describing Excel standard deviation functions and simulating difference between sample standard deviation formula and population standard deviation formula.
+Completed Dec 6th
